@@ -18,4 +18,4 @@ some things i've made:
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josh596&layout=compact&hide_border=true&hide=jupyter%20notebook" alt="Top languages" />
 </p>
 
-say hi on [linkedin](https://www.linkedin.com/in/joshua-olukotun-a371761b2/)
+say hi on [linkedin](https://www.linkedin.com/in/joshua-olukotun/)
